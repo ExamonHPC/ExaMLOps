@@ -34,4 +34,4 @@ This integration of MLOps and Examon provides a powerful solution for predictive
 
 ## Example Projects:
 
-- [GRAAFE: GRaph Anomaly Anticipation Framework for Exascale HPC systems](./examples/GRAAFE/README.md)
+- [GRAAFE: GRaph Anomaly Anticipation Framework for Exascale HPC systems](./examples/GRAAFE/)
