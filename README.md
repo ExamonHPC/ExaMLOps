@@ -31,3 +31,7 @@ By leveraging both Kubeflow and Examon, ExaMLOps enables us to:
 - Detect and predict potential issues in HPC operations, helping improve system reliability and performance
 
 This integration of MLOps and Examon provides a powerful solution for predictive monitoring and proactive maintenance in HPC environments, ensuring optimized performance and efficient resource utilization.
+
+## Example Projects:
+
+- [GRAAFE: GRaph Anomaly Anticipation Framework for Exascale HPC systems](./examples/GRAAFE/README.md)
