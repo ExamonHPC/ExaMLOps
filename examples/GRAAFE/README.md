@@ -347,3 +347,19 @@ Using multiple pods in a continuous approach increases the CPU load of the monit
 | All Racks, Multiple Pods, Discrete   |                 3.84 |      189.45 |             8724 |              8152 |
 | All Racks, One Pod, Continuous       |                 5.87 |      189.51 |             9190 |              8546 |
 | All Racks, One Pod, Discrete         |                 3.41 |      189.43 |             8686 |              7738 |
+
+
+## Citation
+If you find the tools or code in this repository useful for your research or work, please consider citing our paper:
+
+```bibtex
+@article{graafe,
+  title={GRAAFE: GRaph anomaly anticipation framework for exascale HPC systems},
+  author={Molan, Martin and Ardebili, Mohsen Seyedkazemi and Khan, Junaid Ahmed and Beneventi, Francesco and Cesarini, Daniele and Borghesi, Andrea and Bartolini, Andrea},
+  journal={Future Generation Computer Systems},
+  year={2024},
+  publisher={Elsevier}
+}
+```
+
+Thank you for supporting our work! If you have any questions or suggestions, feel free to reach out through the repository's Issues section or contact us directly.
